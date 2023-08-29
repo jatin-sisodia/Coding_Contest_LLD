@@ -1,4 +1,4 @@
-package io.hari.demo;
+package io.jatin.demo.test;
 
 import org.junit.jupiter.api.Test;
 import org.junit.runner.RunWith;
